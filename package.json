@@ -1,0 +1,26 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.0.0",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarYauSoftwire/FizzBuzz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HarYauSoftwire/FizzBuzz/issues"
+  },
+  "homepage": "https://github.com/HarYauSoftwire/FizzBuzz#readme",
+  "description": ""
+}
